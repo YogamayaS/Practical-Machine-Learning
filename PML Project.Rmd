@@ -10,7 +10,7 @@ One thing that people regularly do is to quantify how much of a particular activ
 
 The folowing process will be followed to build the prediction model:  
 
-*       Data anlysis and data manipulation to get tidy data  
+*       Data analysis and data manipulation to get tidy data  
 *       Data Slicing to get the training set and testing set  
 *       Build the models - Random Forests and General Boosted Regression Models (GBM)  
 *       Test the accuracy of the models  
